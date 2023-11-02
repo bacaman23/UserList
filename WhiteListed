@@ -1,1 +1,2 @@
-{"709399505", "placehold"}
+local WhiteListedUsers = {"709399505", "placehold"}
+return WhiteListedUsers
