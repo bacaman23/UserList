@@ -1,1 +1,2 @@
-{"709399505", "placehold"}
+local Admin = {"709399505", "placehold"}
+return Admin
